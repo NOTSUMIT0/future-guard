@@ -22,7 +22,7 @@ Email: admin@gmail.com
 Password: Admin@123
 
 ### 3) Mentor:
-Email: mentor@gmail.com
+Email: mentor@gmail.com 
 Password: Mentor@123
 ---
 
